@@ -1,19 +1,19 @@
 #### YoutubeService
 
-This is a search tool using youtube API and JavaScript
+This is a search tool using Google Youtube data API, Node and React
 
-You have to configure youtube data api on *./service/.env.json*.
+You have to create credentials keys on google api console and configure youtube data api on *./service/.env.json*.
 
-The configured key has a quotas, take care when your running into development.
+*The configured key has a quotas of searches, take care when your running into development.*
 
-See more at
-[Google api console](https://googleapis.dev/)
-[Youtube Data API](https://developers.google.com/youtube/v3)
+[Google API console](https://googleapis.dev/)
+
+[Youtube data API](https://developers.google.com/youtube/v3)
 
 
 #### Before start
 ```
-Enter on front-end and service directories and run
+Enter on "./front-end" and "./service" directories and run
 $ npm install
 ```
 
@@ -45,7 +45,7 @@ REACT_APP_SERVICE_URL=http://localhost
 You can change any of this content, or add more for features
 
 
-#### To do
+#### To dos
 ```
 1. Use some database on service to
     1.1 Save user and userConfig on service
