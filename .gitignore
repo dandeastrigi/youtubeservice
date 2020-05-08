@@ -1,0 +1,10 @@
+/front-end/node_modules
+/front-end/package-lock.json
+/front-end/yarn.lock
+/service/cache
+/service/node_modules
+/service/yarn.lock
+/service/package-lock.json
+/node_modules
+/package-lock.json
+/testkeys

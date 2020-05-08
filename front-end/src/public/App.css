@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+.menuTop {
+  width: 100%;
+  height: 8vw;
+}
+
+.top-menu-search {
+  padding-top: 2.3vw;
+  display: inline-flex;  
+  user-select: none;
+  display: inline;
+}
+
+.col-search {
+  left: 12% !important;
+}
+
+.you-search-box {
+  display: inline-flex;
+  margin-top: 1.5vw;
+}
+
+.logo {
+  max-width: 50px;
+  padding-bottom: 0.5vw;
+}
+
+.configButtons {
+  text-align: left;
+  font-size: 2em;
+  margin-top: 1vw;
+  margin-left: 2vw;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+.configButtons:hover { opacity: 1;}
+
+.infoButton {
+  text-align: left;
+  font-size: 2em;
+  margin-top: 1vw;
+  margin-left: 2vw;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+.infoButton:hover { opacity: 1;}
+
+.video-list {
+  margin-top: 2vw;
+}
+
+.video-title {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.video-description {
+  width: 100%;
+  text-align: -webkit-center;
+}
+.description {
+  width: 20%;
+}
