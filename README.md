@@ -2,12 +2,13 @@
 
 This is a search tool using youtube API and JavaScript
 
-You have to configure youtube api on ./service/.env.json 
+You have to configure youtube data api on *./service/.env.json*.
 
-The configured key has a quota, that limit searches at day
+The configured key has a quotas, take care when your running into development.
 
 See more at
-[YoutubeApi](https://www.google.com)
+[Google api console](https://googleapis.dev/)
+[Youtube Data API](https://developers.google.com/youtube/v3)
 
 
 #### Before start
